@@ -4,6 +4,6 @@
   <artifactId>first-assesment</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-  <finalName>First_assesment</finalName>
+  <finalName>First_assesment</finalName><!-- This will be given as jar name of the project-->  
   </build>
 </project>
